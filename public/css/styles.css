@@ -193,6 +193,7 @@ img.cards {
     flex-flow: row wrap;
     justify-content: center;
     align-items: center;
+    flex: 0 1 auto;
 }
 
 .box > .container {
