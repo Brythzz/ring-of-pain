@@ -37,9 +37,8 @@ span {
     font-size: 28px;
 }
 
-.frog {
+.spoon {
     width: 250px;
-    height: 250px;
     vertical-align: top;
     pointer-events: none;
     user-select: none;
